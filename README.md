@@ -191,5 +191,3 @@ The trained model successfully predicts temperature values based on weather cond
 
 ## Authors
 Team 7
-
-Weather Forecasting MLOps Pipeline
